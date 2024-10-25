@@ -72,6 +72,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 
-## Setup NestJS with Postgres and docker 
+## Related Tutorials and Articles 
 
 - [Setup NestJS with Postgres and docker ](https://dev.to/chukwutosin_/step-by-step-guide-setting-up-a-nestjs-application-with-docker-and-postgresql-5hei)
+- [TypeScript CRUD Rest API, using Nest.js, TypeORM, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/typescript-crud-rest-api-using-nestjs-typeorm-postgres-docker-and-docker-compose-33al)
